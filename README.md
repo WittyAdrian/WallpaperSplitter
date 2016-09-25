@@ -10,7 +10,7 @@ Do you have that annoying issue where you want to have a two-screen wallpaper an
 If you're just interested in the program you can simply grab `WallpaperSplitter.exe` from the root directory.
 Do note that you'll need the .NET Framework for this to work.
 
-If you want to look at the source code, you can find this in `WallpaperSplitter/Program.cs` and if you want to run the entire project or fiddle around with it you'll need the entire repository. Enjoy!
+If you want to look at the source code, you can find it in `WallpaperSplitter/Program.cs` and if you want to run the entire project or fiddle around with it you'll need the entire repository. Enjoy!
  
 ## Usage
 Simply enter the path to the directory with your wallpapers when prompted and the rest is automated.
