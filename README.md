@@ -11,11 +11,14 @@ If you're just interested in the program you can simply grab `WallpaperSplitter.
 Do note that you'll need the .NET Framework for this to work.
 
 If you want to look at the source code, you can find it in `WallpaperSplitter/Program.cs` and if you want to run the entire project or fiddle around with it you'll need the entire repository. Enjoy!
- 
+
 ## Usage
 Simply enter the path to the directory with your wallpapers when prompted and the rest is automated.
 
 You can find the result in the directory you specified in a new folder called "Splitter output".
+
+Screenshot of the programs interface:
+![Program interface](http://i.imgur.com/tXFfp87.png)
 
 ## Example
 Original image: 
