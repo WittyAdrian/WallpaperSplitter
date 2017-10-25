@@ -4,3 +4,9 @@ c:\users\witty\documents\visual studio 2015\Projects\WallpaperSplitter\Wallpaper
 c:\users\witty\documents\visual studio 2015\Projects\WallpaperSplitter\WallpaperSplitter\obj\Debug\WallpaperSplitter.csprojResolveAssemblyReference.cache
 c:\users\witty\documents\visual studio 2015\Projects\WallpaperSplitter\WallpaperSplitter\obj\Debug\WallpaperSplitter.exe
 c:\users\witty\documents\visual studio 2015\Projects\WallpaperSplitter\WallpaperSplitter\obj\Debug\WallpaperSplitter.pdb
+D:\Dropbox\Projects\WallpaperSplitter\WallpaperSplitter\bin\Debug\WallpaperSplitter.exe.config
+D:\Dropbox\Projects\WallpaperSplitter\WallpaperSplitter\obj\Debug\WallpaperSplitter.exe
+D:\Dropbox\Projects\WallpaperSplitter\WallpaperSplitter\obj\Debug\WallpaperSplitter.pdb
+D:\Dropbox\Projects\WallpaperSplitter\WallpaperSplitter\bin\Debug\WallpaperSplitter.exe
+D:\Dropbox\Projects\WallpaperSplitter\WallpaperSplitter\bin\Debug\WallpaperSplitter.pdb
+D:\Dropbox\Projects\WallpaperSplitter\WallpaperSplitter\obj\Debug\WallpaperSplitter.csprojResolveAssemblyReference.cache
